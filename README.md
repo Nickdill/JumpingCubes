@@ -3,4 +3,4 @@ JumpingCubes
 
 A strategy game written in Java
 
-Thanks for checking this out!
+Thanks for checking this out.
