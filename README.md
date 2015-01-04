@@ -1,6 +1,6 @@
 JumpingCubes
 ============
 
-A strategy game written in Java
+A strategy game written in Java.
 
 Thanks for checking this out.
