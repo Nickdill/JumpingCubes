@@ -2,5 +2,6 @@ JumpingCubes
 ============
 
 A strategy game written in Java.
+Completed my sophomore year in my Data Structures class.
 
-Thanks for checking this out.
+Full instructions can be found in the info.txt
